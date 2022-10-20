@@ -1,5 +1,5 @@
 # Netflix-Recommendation-System
----
+
 This is python based Netlix Recommendation System for Movies and TV Shows.
 Netflix collects the watch history of the user and focuses on the genre, description, etc. 
 Read it about the netflix recommendation algorithm more here : https://help.netflix.com/en/node/100639
