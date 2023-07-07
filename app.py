@@ -13,7 +13,7 @@ import nltk
 import re
 import string
 
-#nltk.download('stopwords')
+nltk.download('stopwords')
 stemmer=nltk.SnowballStemmer("english")
 from nltk.corpus import stopwords
 stopword=set(stopwords.words('english'))
