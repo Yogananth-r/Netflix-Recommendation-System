@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import sklearn
 from sklearn.feature_extraction import text
 from sklearn.metrics.pairwise import cosine_similarity
 
