@@ -7,3 +7,4 @@ Here, I have imported the dataset from kaggle which contains the movie, tv shows
 The system works as a backend simulation and this code simulates the recommendation.
 I have developed a function based on netflix's algorithm and it recommends movies and tv shows based on the user watch history.
 It is developed using Python using Scikit module and cosine similarity which is mostly used for recommendation purposes. 
+Live - https://netflix-recommendation-system.streamlit.app/
